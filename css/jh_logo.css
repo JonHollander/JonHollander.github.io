@@ -1,0 +1,72 @@
+a.wordmark, u.wordmark {
+    text-decoration: none !important;
+}
+ 
+h1.wordmark {
+    font-size: 2.5em;
+    font-family: "Homenaje";
+    font-weight: normal;
+    color: #323F41;
+    animation-name: colorPulse;
+    animation-duration: 9s;
+    animation-iteration-count: 1;
+}
+
+@keyframes colorPulse {
+    from { color: #323F41; }
+    11% { color: #F99B55; }
+    22% { color: #323F41; }
+}
+
+span.wordmark-letterH {
+    font-size: 1em;
+    font-family: "Homenaje";
+    font-weight: normal;
+    color: #323F41;
+    animation-name: hAnimation;
+    animation-duration: 9s;
+    animation-iteration-count: 1;
+}
+
+@keyframes hAnimation {
+    from {  letter-spacing: -.9em;
+            color: #323F41; }
+    11% {   color: #F99B55; }
+    22% {   letter-spacing: -.9em; 
+            color: #323F41;}
+    55% {   letter-spacing: 0em; }
+    to   {  letter-spacing: 0em; }
+}
+span.wordmark-lower-case{
+    animation-name: lcAnimation;
+    animation-duration: 9s;
+    /* animation-iteration-count: infinite; */
+}
+@keyframes lcAnimation {
+    from { opacity: 0; letter-spacing: 0px;}
+    33%  { opacity: 0; letter-spacing: 0px;}
+    66%  { opacity: 1; letter-spacing: 0px;}
+    to   { opacity: 1; letter-spacing: 0px;}
+}
+
+a.wordmark-simple, u.wordmark-simple {
+    text-decoration: none !important;
+}
+ 
+div.wordmark-simple {
+    width: 3rem;
+    height: 3rem;
+    line-height: 3rem;
+    text-align: center;
+    font-size: 2rem;
+    border-radius: 50%;
+    font-family: "Homenaje";
+    font-weight: normal;
+    color: #F7F9F8;
+    background: #F99B55;
+    padding-left: .75rem;
+    padding-right: .75rem;
+    /* animation-name: colorPulse;
+    animation-duration: 9s;
+    animation-iteration-count: infinite; */
+}
