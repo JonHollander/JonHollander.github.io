@@ -4,66 +4,66 @@
 
 
   <url>
-    <loc>https://jonhollander.me/</loc>
-    <lastmod>2019-05-20</lastmod>
+    <loc>http://localhost:4000/</loc>
+    <lastmod>2019-08-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://jonhollander.me/3d-printed-assemblies/</loc>
+    <loc>http://localhost:4000/3d-printed-assemblies/</loc>
     <priority></priority>
   </url>
   <url>
-    <loc>https://jonhollander.me/intro-to-gcnc/</loc>
+    <loc>http://localhost:4000/intro-to-gcnc/</loc>
     <priority></priority>
   </url>
   <url>
-    <loc>https://jonhollander.me/dial-a-mustache/</loc>
+    <loc>http://localhost:4000/dial-a-mustache/</loc>
     <priority></priority>
   </url>
   
   <url>
-    <loc>https://jonhollander.me/about/</loc>
+    <loc>http://localhost:4000/about/</loc>
     <priority>0.9</priority>
   </url>
   
   <url>
-    <loc>https://jonhollander.me/contact/</loc>
+    <loc>http://localhost:4000/contact/</loc>
     <priority>0.9</priority>
   </url>
   
   <url>
-    <loc>https://jonhollander.me/_pages/contact_matt/</loc>
+    <loc>http://localhost:4000/_pages/contact_matt/</loc>
     <priority>0.9</priority>
   </url>
   
   <url>
-    <loc>https://jonhollander.me/_pages/oldabout/</loc>
+    <loc>http://localhost:4000/_pages/oldabout/</loc>
     <priority>0.9</priority>
   </url>
   
   <url>
-    <loc>https://jonhollander.me/projects/makercase/</loc>
+    <loc>http://localhost:4000/projects/makercase/</loc>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>https://jonhollander.me/projects/sparkbooth_server/</loc>
+    <loc>http://localhost:4000/projects/sparkbooth_server/</loc>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>https://jonhollander.me/projects/wam/</loc>
+    <loc>http://localhost:4000/projects/wam/</loc>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>https://jonhollander.me/projects/seriforge/</loc>
+    <loc>http://localhost:4000/projects/seriforge/</loc>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>https://jonhollander.me/projects/makercase%202/</loc>
+    <loc>http://localhost:4000/projects/makercase%202/</loc>
     <priority>0.7</priority>
   </url>
   
