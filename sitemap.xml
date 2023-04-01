@@ -5,7 +5,7 @@
 
   <url>
     <loc>https://jonhollander.me/</loc>
-    <lastmod>2023-03-29</lastmod>
+    <lastmod>2023-04-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -49,6 +49,11 @@
   
   <url>
     <loc>https://jonhollander.me/projects/sparkbooth_server/</loc>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://jonhollander.me/projects/nestcad/</loc>
     <priority>0.7</priority>
   </url>
   
